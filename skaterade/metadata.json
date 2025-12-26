@@ -1,0 +1,8 @@
+{
+  "name": "Skaterade",
+  "description": "A specialized social media platform and video editing suite for the EA Skate community, featuring authentic camera filters like VX1000 and VHS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
