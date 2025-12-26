@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/connectivitybadge.tsx","./src/main.tsx","./src/preview/glorgpupreview.tsx","./src/preview/worker.ts","./src/services/vxapi.ts","./src/shared/params.ts"],"version":"5.9.3"}
